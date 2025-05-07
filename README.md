@@ -1,6 +1,7 @@
 ### Hello 👋  
 I'm Vaibhavi Pasalkar.  
-Fergusson College | MSc Computer Science Student
+
+MSc Computer Science Student| Fergusson College, Pune. 
 
 ### Connect with me.
 
