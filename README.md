@@ -10,6 +10,3 @@ MSc Computer Science Student | Fergusson College, Pune.
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="45" height="45"/>
 </a>
 <hr>
-<p align="">
-  <img src="https://komarev.com/ghpvc/?username=pasalkarvaibhavi&color=green&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
